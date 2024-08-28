@@ -9,6 +9,11 @@ Description: Notes and reference links for weekly saturday discussion on Linear 
 | 1  | [Inverse of a matrix](https://github.com/Meenakshi-mini/Saturday-Maths/blob/main/Notes/LA/Inverse_of_matrix.pdf) | 27/07/2024 | Meenakshi | [Lecture Video](https://www.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/linear-algebra-introduction-to-the-inverse-of-a-function) |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | |
 
+## Probability
+| S. No | Topic Name (Hyperlinked)  | Date | Person name | Reference Links |
+| :---: | :---: | :---: | :---: | :---: | 
+| 1  | [Probability Fundamentals] | 24/08/24 | Chaithra |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | |
 
 ## Machine Learning
 | S. No | Topic Name (Hyperlinked)  | Date | Person name | Reference Links |
